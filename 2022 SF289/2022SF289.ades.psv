@@ -1,0 +1,36 @@
+# version=2017
+# observatory
+! mpcCode I41
+! name Zwicky Transient Facility
+# submitter
+! name J. Moeyens
+! institution B612 Asteroid Institute
+# telescope
+! name Oschin Schmidt
+! design Schmidt
+! aperture 1.2
+! detector CCD
+! fRatio 2.44
+# observers
+! name Z. T. F. Collaboration
+# measurers
+! name J. Moeyens
+! name M. Juric
+! name K. Kiker
+! name A. Koumjian
+! name E. Lu
+! name S. Nelson
+! name A. Posner
+! name N. Tellis
+# software
+! objectDetection ADAM::Precovery
+# fundingSource WilliamBowesFnd, McGregorGirandFund, Tito's Vodka, PRawls, SKraus, Yishan/KWong, SGalitsky, Anon.
+provID|obsTime|ra|dec|mag|rmsMag|band|exp|stn|mode|astCat
+2022 SF289|2022-09-17T04:35:06.004Z|308.6401932|26.0133075|19.22|0.11|g|30|I41|CCD|Gaia1
+2022 SF289|2022-09-19T04:34:35.997Z|312.2867360|28.4187728|19.43|0.12|g|30|I41|CCD|Gaia1
+2022 SF289|2022-09-19T06:26:19.004Z|312.4020737|28.4941680|19.35|0.14|g|30|I41|CCD|Gaia1
+2022 SF289|2022-09-20T05:06:06.999Z|313.8196251|29.3384849|18.91|0.08|r|30|I41|CCD|Gaia1
+2022 SF289|2022-09-20T06:52:59.003Z|313.9171508|29.3979314|19.74|0.17|g|30|I41|CCD|Gaia1
+2022 SF289|2022-09-22T06:55:22.003Z|316.4400893|30.7672130|19.23|0.09|r|30|I41|CCD|Gaia1
+2022 SF289|2022-09-25T05:14:06.001Z|319.3630698|32.1102163|19.51|0.12|r|30|I41|CCD|Gaia1
+2022 SF289|2022-09-27T04:15:06.003Z|320.9666400|32.7178316|20.27|0.16|r|30|I41|CCD|Gaia1
